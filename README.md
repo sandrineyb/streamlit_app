@@ -8,3 +8,5 @@ Objectifs du challenge => Application Streamlit
 name, password, email, failed_login_attemps, logged_in et role
 - Le menu devra être placé dans la barre latérale (sidebar). Cette barre comprendra également : Déconnexion et un message de bienvenu de type Bienvenue username.
 
+## Lien vers le site de l'Application
+https://picture-app.streamlit.app/
